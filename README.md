@@ -17,8 +17,3 @@ signal: Zm9yIGlucXVpcmllczogb2poYXdvcms5MDBAZ21haWwuY29t
 ---
 ![coder](https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp)
 
-<div align="center">
-  <br>
-  <img src="https://media.giphy.com/media/LBWJMN76V4qXe/giphy.gif" width="100%" height="20">
-  <br>
-</div>
